@@ -22,6 +22,6 @@ void test(string filename) {
 Main function
 */
 int main() {
-    test("testcase/test000.txt");
+    test("test000.txt");
     return 0;
 }
